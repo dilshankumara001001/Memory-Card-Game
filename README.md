@@ -133,14 +133,6 @@ On smaller devices:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Memory-Card-Game/
-│
-├── index.html
-└── README.md
-```
 
 The complete game is contained in a single **HTML file**, including the CSS styling and JavaScript game logic.
 
@@ -192,15 +184,7 @@ Some features that could be added in future versions:
 
 ---
 
-## 📸 Screenshots
 
-Add your game screenshots here:
-
-```markdown
-![Memory Card Game Screenshot](screenshot.png)
-```
-
----
 
 ## 🤝 Contributing
 
